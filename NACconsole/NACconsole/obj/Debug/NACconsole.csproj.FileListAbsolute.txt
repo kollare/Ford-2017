@@ -1,0 +1,7 @@
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\bin\Debug\NACconsole.exe.config
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\bin\Debug\NACconsole.exe
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\bin\Debug\NACconsole.pdb
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\obj\Debug\NACconsole.csprojResolveAssemblyReference.cache
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\obj\Debug\NACconsole.csproj.CoreCompileInputs.cache
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\obj\Debug\NACconsole.exe
+C:\Users\ekollar1\source\repos\NACconsole\NACconsole\obj\Debug\NACconsole.pdb
