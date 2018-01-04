@@ -1,0 +1,7 @@
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.exe.config
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.exe
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.exe
+C:\Users\ekollar1\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
