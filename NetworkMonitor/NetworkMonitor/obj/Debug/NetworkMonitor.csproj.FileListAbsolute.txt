@@ -1,0 +1,9 @@
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.pdb
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csprojResolveAssemblyReference.cache
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.frmMain.resources
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.Properties.Resources.resources
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.GenerateResource.Cache
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.CoreCompileInputs.cache
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe
+C:\Users\ekollar1\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.pdb
